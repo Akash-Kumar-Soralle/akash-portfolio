@@ -36,11 +36,11 @@ I design scalable data pipelines, build predictive models, and create interactiv
 ---
 
 ## 📊 Projects
-- **[Optimizing Online Insurance Conversions](#)** → SQL, R, Power BI, ML models  
-- **[Tesco Supply Chain Analysis](#)** → Power BI, DAX, Kaggle datasets  
-- **[ETL Pipeline Automation](#)** → NiFi, ADF, Snowflake  
-- **[Churn Prediction](#)** → Spark MLlib, Python, Redshift  
-- **[Predictive Maintenance](#)** → SAP HANA, KNIME, Python  
+- [Optimizing Online Insurance Conversions](#) → SQL, R, Power BI, ML models  
+- [Tesco Supply Chain Analysis](#) → Power BI, DAX, Kaggle datasets  
+- [ETL Pipeline Automation](#) → NiFi, ADF, Snowflake  
+- [Churn Prediction](#) → Spark MLlib, Python, Redshift  
+- [Predictive Maintenance](#) → SAP HANA, KNIME, Python  
 
 ---
 
