@@ -34,5 +34,6 @@ I focus on creating scalable, resilient solutions across finance, healthcare, an
 ---
 
 ## 🔗 Connect with Me
-GitHub: github.com/Akash-Kumar-Soralle
-LinkedIn: linkedin.com/in/akashsoralle1999
+- GitHub: github.com/Akash-Kumar-Soralle  
+- LinkedIn: linkedin.com/in/akashsoralle1999  
+
